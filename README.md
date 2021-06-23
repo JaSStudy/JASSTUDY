@@ -1,5 +1,5 @@
 # 📖 인사이드 자바스크립트📖
-## 🙆 Team Memebers
+## 🙆 Team Memebers!
 - 여민지 https://github.com/yeominji
 - 윤희경 https://github.com/heeyomi
 - 한은지 https://github.com/dmswl27
